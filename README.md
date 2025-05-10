@@ -1,7 +1,8 @@
 # app-dev
 # My Favorite Series: *Squid Game*
 
-![Squid Game Logo](https://example.com/squid-game-logo.png)
+![Squid Game Logo](https://github.com/user-attachments/assets/5d3f9152-7467-4bd0-9d68-78e6a6c6e9ac)
+
 
 **Genre:** Drama, Thriller, Survival  
 **Main Characters:**
